@@ -2,12 +2,9 @@ public class Main {
     public static void main(String[] args) {
 
         int savings = 15_000;
-        int goal = 12_000_000;
         float interestRate = 0.07f;
-        int month = 0;
-        while (savings < goal) {
-            month++;
+        for (int i = 1; i <= 108; i++) {
             savings += savings * interestRate;
-            if (month % 6 == 0) {
-                System.out.println("Месяц " + month + ", сумма накоплений равна " + savings + " рублей.");
+            if (i % 6 == 0) {
+                System.out.println("Месяц " + i + ", сумма накоплений равна " + savings + " рублей.");
 }}}}
