@@ -1,10 +1,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        int savings = 15_000;
-        float interestRate = 0.07f;
-        for (int i = 1; i <= 108; i++) {
-            savings += savings * interestRate;
-            if (i % 6 == 0) {
-                System.out.println("Месяц " + i + ", сумма накоплений равна " + savings + " рублей.");
+        int friday = 3;
+        for (int i = 1; i <= 31; i++) {
+            if (i == friday) {
+                System.out.println("Сегодня пятница, " + friday + "-е число. Необходимо подготовить отчет");
+                friday += 7;
+
+
 }}}}
