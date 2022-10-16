@@ -8,5 +8,6 @@ public class Main {
         while (savings < goal) {
             month++;
             savings += savings * interestRate;
-            System.out.println("Месяц " + month + ", сумма накоплений равна " + savings + " рублей.");
-}}}
+            if (month % 6 == 0) {
+                System.out.println("Месяц " + month + ", сумма накоплений равна " + savings + " рублей.");
+}}}}
