@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04946d1d-5157-447b-8957-e756e11d5a0e" name="Changes" comment="1">
+    <list default="true" id="04946d1d-5157-447b-8957-e756e11d5a0e" name="Changes" comment="Задание 1_2">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665925381824</updated>
-      <workItem from="1665925383812" duration="324000" />
+      <workItem from="1665925383812" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1665925491489</created>
@@ -50,7 +50,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665925491489</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Задание 1_1">
+      <created>1665925802261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665925802261</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Задание 1_2">
+      <created>1665925934545</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665925934545</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +83,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="Задание 1_1" />
+    <MESSAGE value="Задание 1_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 1_2" />
   </component>
 </project>
